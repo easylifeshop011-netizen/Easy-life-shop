@@ -777,3 +777,16 @@ function checkout(){
 
 
 render();
+
+admin
+Easy-life-shop/
+│
+├── index.html
+├── style.css
+├── app.js
+│
+└── admin/
+    ├── index.html
+    ├── style.css
+    └── admin.js
+https://easylifeshop011-netizen.github.io/Easy-life-shop/admin/
